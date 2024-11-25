@@ -6,3 +6,7 @@
   
 
 </ul>
+
+<p>DO LIVRO: 
+Fundamentos Da Programação de Computadores: Algoritmos, Pascal, C/C++ e Java (2a. Ed. )
+DE: Ana Fernanda Gomes Ascencio e Edilene Aparecida Veneruchi de Campos</p>
